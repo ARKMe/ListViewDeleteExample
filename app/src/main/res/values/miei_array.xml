@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mio_array">
+        <item>valore 1</item>
+        <item>valore 2</item>
+        <item>valore 3</item>
+        <item>valore 4</item>
+        <item>valore 5</item>
+        <item>valore 6</item>
+        <item>valore 7</item>
+        <item>valore 8</item>
+        <item>valore 9</item>
+        <item>valore 10</item>
+        <item>valore 11</item>
+        <item>valore 12</item>
+        <item>valore 13</item>
+        <item>valore 14</item>
+        <item>valore 15</item>
+        <item>valore 16</item>
+        <item>valore 17</item>
+        <item>valore 18</item>
+        <item>valore 19</item>
+        <item>valore 20</item>
+    </string-array>
+</resources>
